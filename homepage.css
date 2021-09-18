@@ -1,0 +1,86 @@
+
+#pic {
+  background-image: url('https://coolbackgrounds.io/images/unsplash/josh-bean-medium-9501ba9f.jpg'); 
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+
+
+
+
+#text{
+    margin-top: 260px;
+    margin-left: 100px;
+}
+
+
+/* login page css */
+
+
+  #text1{
+    margin-top: 260px;
+    margin-left: 500px;
+    border: 2px solid black;
+   width:500px;
+   height: 450px;
+  
+
+  }
+  #text2{
+    margin-top: 260px;
+    margin-left: 500px;
+    border: 2px solid black;
+   width:500px;
+   height: 300px;
+
+  }
+
+  main
+{
+
+        background-color: gray;
+        margin: auto;
+        height: 500px;
+        width: 850px;
+        margin-top: 50px;
+        border-radius: 20px;
+    
+}
+
+
+.nav
+{
+justify-content: center;
+padding: 20px;
+}
+.btn
+{
+    padding: 20px;
+    margin: 20px;
+    
+}
+
+.card-header
+{
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+
+}
+.pn
+{
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+
+#timer{
+    background-color:#419D78;
+    color:#EFD0CA;
+    font-size:20px;
+    text-align:center;
+  }
